@@ -4,6 +4,8 @@
 ```bash
 git clone https://github.com/HighTTeam/blog.git
 ```
+### Prepare your environment
+https://hexo.io/docs/index.html
 ### Create a new post
 ```bash
 $ hexo new "My Post"
