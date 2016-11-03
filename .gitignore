@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+Would skip repository .deploy_git/
+.gitignore
+.deploy_git
+.idea
+node_modules
+blog.iml
+_config.yml
+Would skip repository themes/alpha-dust
+themes/.DS_Store
